@@ -22,7 +22,10 @@ bld/
 
 # CLion/IntelliJ IDEA
 .idea/
+.vscode
 
+project/*
 
 # manual cmake build ignores
 build/
+cmake*
